@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DraggableImageView.h
 //  iOSWk5Exercise
 //
 //  Created by AP Fritts on 3/4/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DraggableImageView : UIView
 
 @end
-
